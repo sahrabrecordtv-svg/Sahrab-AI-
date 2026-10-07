@@ -1,9 +1,0 @@
-{
-  "name": "sahrab-ai",
-  "type": "module",
-  "dependencies": {
-    "express": "^4.19.2",
-    "axios": "^1.6.7",
-    "@google/generative-ai": "^0.17.1"
-  }
-}
